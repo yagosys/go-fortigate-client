@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Nexinto/go-fortigate-client/fortigate"
+	"github.com/fortigate"
 	"github.com/docopt/docopt-go"
 )
 
